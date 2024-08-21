@@ -1,0 +1,11 @@
+[package]
+name = "cmake"
+version = "0.1.0"
+description = "CMake Plugin for FluentCI"
+license = "MIT"
+keywords = [
+  "cmake"
+]
+authors = [
+  "Tsiry Sandratraina <tsiry.sndr@fluentci.io>"
+]
