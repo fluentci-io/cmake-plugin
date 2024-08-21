@@ -27,3 +27,4 @@ jobs:
       - name: Show cmake version
         run: |
           devbox run cmake --version
+        working-directory: example/build
